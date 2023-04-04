@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @soumyadeep2912
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m Soumyadeep
+- 👀 I’m interested in Backend Development
+- 🌱 I’m currently learning SpringBoot,ElasticSearch,MongoDb,Kafka
 - 📫 How to reach me ...
 
 <!---
